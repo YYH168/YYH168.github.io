@@ -3,28 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-<<<<<<< HEAD
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-=======
 title: YYH的博客
 subtitle: 博客的力量是强大的。
 description: 这是一次测试！
 author: Yyh
-language: ZH
->>>>>>> 9c6680693fc0950508cb6a12bd18e0ebefc24cca
+language: 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-<<<<<<< HEAD
-url: http://yoursite.com
-=======
 url: https://yyh168.github.io/
->>>>>>> 9c6680693fc0950508cb6a12bd18e0ebefc24cca
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -90,9 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-<<<<<<< HEAD
-  type: git@github.com/YYH168/YYH168.github.io.git
-=======
   repo: git@github.com:YYH168/YYH168.github.io.git
->>>>>>> 9c6680693fc0950508cb6a12bd18e0ebefc24cca
   branch: master
